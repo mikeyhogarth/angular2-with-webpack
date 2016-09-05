@@ -1,6 +1,7 @@
+[![Build Status](https://travis-ci.org/mikeyhogarth/angular2-with-webpack.svg?branch=master)](https://travis-ci.org/mikeyhogarth/angular2-with-webpack)
+
 # Angular 2 and Webpack Skeleton App
 
-[![Build Status](https://travis-ci.org/mikeyhogarth/angular2-with-webpack.svg?branch=master)](https://travis-ci.org/mikeyhogarth/angular2-with-webpack)
 Skeleton application for using angular 2 with webpack - at time of writing the documentation for ng2 isn't all the 
 way there so this may save you some of the pain I've had in gettnig the environment set up.
 
