@@ -14,7 +14,9 @@ Includes:
 * One spec, component, template, module and stylesheet
 * Tests with Karma
 
-Largely inspired by the angular 2 example webpack setup but with a few bells and whistles.
+Largely inspired by the angular 2 example webpack setup but with a few bells and whistles. Please set expectations
+suitably low for the [demo](https://mikeyhogarth.github.io/angular2-with-webpack/) that's deployed to gh-pages. Like,
+seriously. All you get is two components and navigation between them.
 
 # Getting Started
 ```
@@ -33,6 +35,7 @@ Once installation completes;
 npm test        # run the specs
 npm start       # start webpack dev server on port 8080
 npm run build   # build production dist
+npm run deploy-demo # push to gh-pages (you'll need to change your base herf in index.html)
 ```
 
 This is very much a "living repo" and so will change over time as the platform (or my opinions!) change - I would
