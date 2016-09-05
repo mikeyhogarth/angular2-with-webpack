@@ -1,5 +1,7 @@
 # Angular 2 and Webpack Skeleton App
 
+[![Build Status](https://travis-ci.org/mikeyhogarth/angular2-with-webpack.svg?branch=master)](https://travis-ci.org/mikeyhogarth/angular2-with-webpack)
+
 Includes:
 
 * Angular 2 RC 6
