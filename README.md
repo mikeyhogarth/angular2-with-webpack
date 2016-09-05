@@ -34,3 +34,7 @@ npm test        # run the specs
 npm start       # start webpack dev server on port 8080
 npm run build   # build production dist
 ```
+
+This is very much a "living repo" and so will change over time as the platform (or my opinions!) change - I would
+love to hear your opinions on how this could be improved. If you do find this repo useful and you use it for your own 
+projects please I encourage you to share any modifications you make with the community.
