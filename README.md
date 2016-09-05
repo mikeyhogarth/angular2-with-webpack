@@ -3,7 +3,7 @@
 # Angular 2 and Webpack Skeleton App
 
 Skeleton application for using angular 2 with webpack - at time of writing the documentation for ng2 isn't all the 
-way there so this may save you some of the pain I've had in gettnig the environment set up.
+way there yet so this may save you some of the pain I've had in getting the environment set up.
 
 Includes:
 
